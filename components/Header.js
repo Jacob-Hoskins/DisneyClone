@@ -45,6 +45,7 @@ const Nav = styled.nav`
     display: flex;
     align-items: center;
     padding: 0 36px;
+    overflow-x: hidden;
 `
 
 //logo is a image so itll get img instead of the normal div
